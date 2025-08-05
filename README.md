@@ -31,7 +31,7 @@ Currently exploring backend technologies, with openness to both **Node.js/Expres
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farinaz-soleimani-a2b029167/)  
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:farinaz.soleimani.pro@gmail.com)  
-📞 09197103295  
+
 
 ---
 
@@ -68,4 +68,4 @@ Currently exploring backend technologies, with openness to both **Node.js/Expres
 ## راه‌های ارتباطی  
 [لینکدین](https://www.linkedin.com/in/farinaz-soleimani-a2b029167/)  
 ایمیل: farinaz.soleimani.pro@gmail.com  
-تلفن: 09197103295  
+
